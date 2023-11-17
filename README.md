@@ -1,2 +1,2 @@
 # ambientare_plugins
-Manage e debbug QGis plugins.
+Manage and debbug QGis plugins.
